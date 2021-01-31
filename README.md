@@ -1,4 +1,4 @@
-# logineasy
+# loginEasy
 Tela de login nível easy.
 
 Tela de login para fins didáticos nível iniciante.
