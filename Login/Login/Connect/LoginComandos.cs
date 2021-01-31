@@ -46,7 +46,8 @@ namespace Login.Connect
       return tem;
     }
 
-
+    //insere no usuário no banco de dados
+    
     public String cadastrar(String email, String senha, String ConfSenha)
     {
       //comandos para inserir
