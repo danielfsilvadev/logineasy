@@ -14,8 +14,10 @@ namespace Login.Connect
     public Conexao()
     {
 
+      /*Abaixo temos a string de conexação com a base de dados.
+      Substitua os asteríscos pelo nome da sua máquina ou nome da sua instancia SQL válida.*/ 
 
-      con.ConnectionString = @"Data Source=BHN050103197;Initial Catalog=Sistema;Integrated Security=True";
+      con.ConnectionString = @"Data Source= **********;Initial Catalog=Sistema;Integrated Security=True";
 
     }
 
