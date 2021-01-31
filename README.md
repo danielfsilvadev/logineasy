@@ -1,7 +1,7 @@
 # loginEasy
 Tela de login nível easy.
 
-Tela de login para fins didáticos nível iniciante.
+Tela de login para fins didáticos nível iniciante, sistema denominado LEVEL.
 
 Aplicação necessita de Banco de dados SQL Sever, o bkp está disponível para download junto ao demais arquivos do projeto. 
 
